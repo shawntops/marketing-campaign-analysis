@@ -106,10 +106,6 @@ This suggests that campaign decisions should consider the entire conversion funn
 
 A portfolio-ready dashboard visual will be added here.
 
-## Project File
-
-The original Excel workbook used for the analysis will be added to this repository.
-
 ## Skills Demonstrated
 
 - Data cleaning and preparation
