@@ -104,7 +104,7 @@ This suggests that campaign decisions should consider the entire conversion funn
 
 ## Dashboard
 
-A portfolio-ready dashboard visual will be added here.
+![Marketing Campaign Performance Excel Dashboard](images/marketing_analysis_dashboad.png)
 
 ## Skills Demonstrated
 
